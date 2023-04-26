@@ -1,0 +1,37 @@
+Objectif : fichier IMPUTER à partager sur github
+
+EXPLORER : 
+créer un dossier vide git_imputer // noter le chemin 
+y ranger le fichier imputer // à partir du bureau
+
+TERMINAL :
+	git init 
+	git status
+	git add .
+	git status
+	git commit -m "commentaire"
+	git log
+
+GITHUB : 
+	créer le répertoire Class imputer
+	copier le lien remove et le coller le terminal
+
+TERMINAL : 
+	git remove add origin
+	git push origin master
+
+GITHUB : 
+	création read.md
+	commit (en abs de l'écran)
+
+TERMINAL : 
+	git pull origin master
+
+EXPLORER : 
+	modifier le read.me
+
+TERMINAL : faire un push
+
+Envoyer le lien github du notebook sur discord
+	
+	
